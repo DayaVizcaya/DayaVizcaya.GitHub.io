@@ -1,5 +1,5 @@
 # DayaVizcaya.GitHub.io
-# Prueba gIT
+# Prueba GIT GitHub
 
 Este es un proyecto de ejemplo que incluye un archivo HTML (`index.html`) y un archivo CSS (`mystyles.css`) para crear una página web.
 
